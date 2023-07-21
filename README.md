@@ -3,7 +3,7 @@
 
  Projects:
  
-Pizza Menu (Components, props, JSX)
+    Pizza Menu (Components, props, JSX)
     https://mikes-react-pizza-menu.netlify.app
 
 Travel List (useState and state management)
@@ -25,4 +25,3 @@ Fast React Pizza (React Router data loading, Redux, Redux Toolkit, thunks, Tailw
 https://mikes-fast-react-pizza.netlify.app
 
 The Wild Oasis (React Query, Styled Components, React Hook Form, Supabase, advanced compound component pattern, authentication, charts, dark mode, professional application planning and development)
-
