@@ -2,26 +2,12 @@
  Projects dedicated to learning react!
 
  Projects:
- 
-    Pizza Menu (Components, props, JSX)
-    https://mikes-react-pizza-menu.netlify.app
 
-Travel List (useState and state management)
-https://mikes-react-travel-list.netlify.app
-
-Eat-n-split (Practice project)
-https://mikes-eat-n-split.netlify.app
-
-usePopcorn (useEffect, data fetching, custom hooks)
-https://mikes-usepopcorn.netlify.app
-
-Quiz App (useReducer)
-https://mikes-react-quiz.netlify.app
-
-WorldWise (React Router, context API, memo, useMemo, useCallback)
-https://mikes-worldwise.netlify.app
-
-Fast React Pizza (React Router data loading, Redux, Redux Toolkit, thunks, Tailwind CSS)
-https://mikes-fast-react-pizza.netlify.app
-
-The Wild Oasis (React Query, Styled Components, React Hook Form, Supabase, advanced compound component pattern, authentication, charts, dark mode, professional application planning and development)
+- [Pizza Menu](https://mikes-react-pizza-menu.netlify.app) (Components, props, JSX)
+- [Travel List](https://mikes-react-travel-list.netlify.app) (useState and state management)
+- [Eat-n-split](https://mikes-eat-n-split.netlify.app) (Practice project)
+- [usePopcorn](https://mikes-usepopcorn.netlify.app) (useEffect, data fetching, custom hooks)
+- [Quiz App](https://mikes-react-quiz.netlify.app) (useReducer)
+- [WorldWise](https://mikes-worldwise.netlify.app) (React Router, context API, memo, useMemo, useCallback)
+- [Fast React Pizza](https://mikes-fast-react-pizza.netlify.app) (React Router data loading, Redux, Redux Toolkit, thunks, Tailwind CSS)
+- [The Wild Oasis WIP]() (React Query, Styled Components, React Hook Form, Supabase, advanced compound component pattern, authentication, charts, dark mode, professional application planning and development)
