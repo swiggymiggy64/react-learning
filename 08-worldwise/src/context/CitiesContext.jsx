@@ -6,7 +6,11 @@ import {
   useReducer,
 } from "react";
 
-const BASE_URL = "http://localhost:8000";
+// this is for using the npm json-server method to locally fake a REST API. Not for use on production.
+// const BASE_URL = "http://localhost:8000";
+
+// render upload of json data
+const BASE_URL = "https://worldwise-api.onrender.com";
 
 const CitiesContext = createContext();
 
