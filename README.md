@@ -4,8 +4,7 @@
  Projects:
  
 Pizza Menu (Components, props, JSX)
-
-https://mikes-react-pizza-menu.netlify.app
+    https://mikes-react-pizza-menu.netlify.app
 
 Travel List (useState and state management)
 https://mikes-react-travel-list.netlify.app
