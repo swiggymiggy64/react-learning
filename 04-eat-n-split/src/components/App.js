@@ -1,9 +1,5 @@
 import { useState } from "react";
 
-function help() {
-  return;
-}
-
 const initialFriends = [
   {
     id: 118836,
