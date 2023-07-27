@@ -1,7 +1,6 @@
 import styled from "styled-components";
 import Heading from "./Heading";
 import GlobalStyles from "../styles/GlobalStyles";
-import Message from "./../../../08-worldwise/src/components/Message";
 import Button from "./Button";
 
 const StyledErrorFallback = styled.main`
