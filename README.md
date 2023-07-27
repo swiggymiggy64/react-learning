@@ -10,4 +10,4 @@
 - [Quiz App](https://mikes-react-quiz.netlify.app) (useReducer)
 - [WorldWise](https://mikes-worldwise.netlify.app) (React Router, context API, memo, useMemo, useCallback)
 - [Fast React Pizza](https://mikes-fast-react-pizza.netlify.app) (React Router data loading, Redux, Redux Toolkit, thunks, Tailwind CSS)
-- [The Wild Oasis WIP]() (React Query, Styled Components, React Hook Form, Supabase, advanced compound component pattern, authentication, charts, dark mode, professional application planning and development)
+- [The Wild Oasis](https://mikes-wild-oasis.netlify.app) (React Query, Styled Components, React Hook Form, Supabase, advanced compound component pattern, authentication, charts, dark mode, professional application planning and development)
